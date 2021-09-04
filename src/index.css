@@ -25,14 +25,14 @@ body {
 
 .App {
   background-color: rgb(173, 240, 134) !important;
-  min-height: 800px;  
-  width: 1500px !important;
+  min-height: 600px;  
+  width: 1300px !important;
   box-shadow: 1px 1px 5px rgb(12, 153, 59);
-  padding-left: 70px;
+  padding-left: 100px;
 }
 
 .Game {
-  height: 700px;   
+  height: 550px;   
   filter: drop-shadow(0 0 0.5rem rgba(255, 255, 255, 0.918));
 }
 
@@ -124,8 +124,8 @@ h3 {
   background-repeat: no-repeat !important;
   background-size: 100% !important;
   display: inline-flex;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   padding: 30px;
   margin: 10px;text-align-last: center;
   margin-top: 20px;
@@ -136,8 +136,7 @@ h3 {
 
 .Hippie {
   position: relative;
-  width: 25px;
-  height: 28px;
+  height: 23px;
   left: -20px;
   top: 10px !important;
   z-index: -1;
@@ -205,5 +204,3 @@ h3 {
     filter: drop-shadow(0 0 0.80rem rgb(255, 0, 179));
   }
 }
-
-

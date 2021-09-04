@@ -2,11 +2,17 @@
 
 The other day, I watched Season two of The Umbrella Academy, and it got me thinking about the sixties. Now, I was not born yet in the 1960s - and neither were my parents - but you know what was born in the 1960s? HIPPIES! HIPPIES! HIPPIES!
 
-By this time, a whack-a-mole game was on my list of React projects to attempt on my own, so I tried to take the path of love and peace and turn it into Whack-A-Hippie instead. Okay okay, so you won't actually whack a hippie, but you will be able to turn off the tv when one pops up - same principle. When you whack a hippie, the score automatically updates during 30s of gameplay, and your highest score will even be saved in your Local Browser Storage. Did I mention the remote cursor?
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87696858/132095604-1911b038-5c4f-4b0a-b27f-cc565f9a4a35.png" width="300">
+</p>
+
+By this time, a whack-a-mole game was on my list of React projects to attempt on my own, so I tried to take the path of love and peace and turn it into Whack-A-Hippie instead. Okay okay, so you won't actually whack a hippie, but you will be able to turn off the tv when one pops up - same principle. When you whack a hippie, the score automatically updates during 30s of gameplay, and your highest score will even be saved in your Local Browser Storage. Did I mention the remote as a cursor?
 
 This was my first attempt at using Redux, which was pretty once I read through the documentation on their website https://redux.js.org. My Redux store  binds together all my reducer state functions to compile my app functionality, and my Reducer file contains all functions that take the current state and an action as arguments, and return a new state result. In other words, (state, action) => newState. Then, I created my usual components file which will render the Game, Hippie and Status components to the App.js. I also learnt to use Immutable and Lodash (explained in my source code).
 
 Day one 7, 8, 9, 10 and 11 (it took so long because of assignments, oof) of trying to code in React on my own was a success. I completed it with the following: React, Reduct, Lodash, Immutable, JavaScript, HTML5, CSS3, and SCSS.
+
+I got the images from Freepik, PNGFind.com, and the sound bits from myinstants.com
 
 ## Main Screen
 ![screencapture-localhost-3000-2021-09-04-12_50_55](https://user-images.githubusercontent.com/87696858/132095482-c44a67d2-f626-43f7-8325-018095214a6b.png)
@@ -17,6 +23,13 @@ Day one 7, 8, 9, 10 and 11 (it took so long because of assignments, oof) of tryi
 ## Game End Screen
 ![screencapture-localhost-3000-2021-09-04-12_51_32](https://user-images.githubusercontent.com/87696858/132095498-8aa078b3-cbf4-4940-bde7-bd0aee009255.png)
 
+## Custom Cursor
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87696858/132095711-a3ffcdaf-a478-4ed1-b787-67dcbbe63a30.png" width="200">
+</p>
+
+___________________________________________________________________________________________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -10,7 +10,7 @@ By this time, a whack-a-mole game was on my list of React projects to attempt on
 
 This was my first attempt at using Redux, which was pretty once I read through the documentation on their website https://redux.js.org. My Redux store  binds together all my reducer state functions to compile my app functionality, and my Reducer file contains all functions that take the current state and an action as arguments, and return a new state result. In other words, (state, action) => newState. Then, I created my usual components file which will render the Game, Hippie and Status components to the App.js. I also learnt to use Immutable and Lodash (explained in my source code).
 
-Day one 7, 8, 9, 10 and 11 (it took so long because of assignments, oof) of trying to code in React on my own was a success. I completed it with the following: React, Reduct, Lodash, Immutable, JavaScript, HTML5, CSS3, and SCSS.
+Day 7, 8, 9, 10 and 11 (it took so long because of assignments, oof) of trying to code in React on my own was a success. I completed it with the following: React, Reduct, Lodash, Immutable, JavaScript, HTML5, CSS3, and SCSS.
 
 I got the images from Freepik, PNGFind.com, and the sound bits from myinstants.com
 

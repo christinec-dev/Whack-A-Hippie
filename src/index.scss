@@ -35,7 +35,7 @@ $game-shadow: rgba(255, 255, 255, 0.918);
 
       .App {
         background-color: $app-bg !important;
-        min-height: 800px;  
+        min-height: 600px; 
         width: 1500px !important;
         box-shadow: 1px 1px 5px $app-shadow;
         padding-left: 70px;
@@ -51,7 +51,7 @@ $game-shadow: rgba(255, 255, 255, 0.918);
         }
         
         .Game {
-          height: 700px;   
+          height: 550px;   
           filter: drop-shadow(0 0 0.5rem $game-shadow);
         }
 
@@ -60,8 +60,8 @@ $game-shadow: rgba(255, 255, 255, 0.918);
           background-repeat: no-repeat !important;
           background-size: 100% !important;
           display: inline-flex;
-          width: 200px;
-          height: 200px;
+          width: 150px;
+          height: 150px;
           padding: 30px;
           margin: 10px;text-align-last: center;
           margin-top: 20px;
@@ -215,19 +215,4 @@ $game-shadow: rgba(255, 255, 255, 0.918);
         }
     }
 }
-  
-
-
-
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   

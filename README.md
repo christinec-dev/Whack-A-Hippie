@@ -1,7 +1,7 @@
 # Whack-A-Hippie
 
-The other day, I watched Season two of The Umbrella Academy, and it got me thinking about the sixties. Now, I was not born yet in the 1960s - and neither were my parents - but you know what was born in the 1960s? **HIPPIES! HIPPIES! HIPPIES!**
-
+The other day, I watched Season two of The Umbrella Academy, and it got me thinking about the sixties. Now, I was not born yet in the 1960s - and neither were my parents - but you know what was born in the 1960s? **HIPPIES! HIPPIES! HIPPIES!** 
+☮✌❤
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87696858/132095604-1911b038-5c4f-4b0a-b27f-cc565f9a4a35.png" width="300">
 </p>

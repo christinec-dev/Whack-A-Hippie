@@ -11,6 +11,10 @@ Day 7, 8, 9, 10 and 11 (it took so long because of assignments, oof) of trying t
 
 I got the images from Freepik, PNGFind.com, and the sound bits from myinstants.com
 
+## 💣 Play Via Demo Link  💣 ## 
+[Whack-a-Hippie Game](whack-a-hippie.herokuapp.com/)
+#### **Please note that if the app does not load or gives an error, just reload the page and Heroku will work again. Sorry for any inconveniece :) ####
+
 ## Main Screen
 ![screencapture-localhost-3000-2021-09-04-12_50_55](https://user-images.githubusercontent.com/87696858/132095482-c44a67d2-f626-43f7-8325-018095214a6b.png)
 
